@@ -8,7 +8,7 @@ div.calculadora-imc {
 h3 {
     font-size: 1.2em;
     text-align: center;
-    background-color: rgba(190, 24, 21, 0.637);
+    background-color: rgba(98, 154, 192, 0.918);
     color: #fff;
 }
 
@@ -45,7 +45,7 @@ input {
 }
 
 img{
-    max-width: 480px;
+    max-width: 600px;
     width: auto;
     height: auto;
     object-fit: fill;
